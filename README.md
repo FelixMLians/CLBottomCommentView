@@ -1,7 +1,7 @@
 # CLBottomCommentView
 🔥 CLBottomCommentView 仿网易底部评论视图
 
-![CLBottomCommentView](https://github.com/FelixMLians/CLBottomCommentView/blob/master/Snapshot/CLCommentViewSnapShot.gif)
+![CLBottomCommentView](https://github.com/FelixMLians/CLBottomCommentView/blob/master/Snapshot/snapShot.gif)
 ````
 
 ## Introduction
